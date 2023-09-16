@@ -11,14 +11,21 @@ The scraped information was stored in the specified Python data structure—spec
 
 Part 2: Scrape and Analyze Mars Weather Data (60 points)
 The HTML table was extracted into a Pandas DataFrame. Either Pandas or Splinter and Beautiful Soup were used to scrape the data. The columns have the correct headings and data types. (15 points)
+![image](https://github.com/Kristen-Beer/data_collection_challenge/assets/136931429/852a002a-1459-4846-8e0c-b8f29e37db46)
 
 The data was analyzed to answer the following questions: (10 points)
 
 How many months exist on Mars? (5 points)
+![image](https://github.com/Kristen-Beer/data_collection_challenge/assets/136931429/1e937a5b-1610-43f7-837e-46965f9d9d07)
+
 How many Martian days' worth of data are there? (5 points)
+![image](https://github.com/Kristen-Beer/data_collection_challenge/assets/136931429/f96753d0-9434-496b-8b27-83d587a67ded)
+
 The data was analyzed to answer the following questions, and a data visualization was created to support each answer: (30 points)
 
 Which month, on average, has the lowest temperature? The highest? (10 points)
+![image](https://github.com/Kristen-Beer/data_collection_challenge/assets/136931429/fc451596-e46f-452b-89b9-b2bde77efaf7)
+
 ![image](https://github.com/Kristen-Beer/data_collection_challenge/assets/136931429/f60b2f40-535e-4f59-8259-c143838695b1)
 
 Which month, on average, has the lowest atmospheric pressure? The highest? (10 points)
