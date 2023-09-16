@@ -16,22 +16,32 @@ The HTML table was extracted into a Pandas DataFrame. Either Pandas or Splinter 
 The data was analyzed to answer the following questions: (10 points)
 
 How many months exist on Mars? (5 points)
+There are 12 months on Mars
+
 ![image](https://github.com/Kristen-Beer/data_collection_challenge/assets/136931429/1e937a5b-1610-43f7-837e-46965f9d9d07)
 
-How many Martian days' worth of data are there? (5 points)
+How many Martian days' worth of data are there? (5 points) 
+There are 1867 days woth of data
+
 ![image](https://github.com/Kristen-Beer/data_collection_challenge/assets/136931429/f96753d0-9434-496b-8b27-83d587a67ded)
 
 The data was analyzed to answer the following questions, and a data visualization was created to support each answer: (30 points)
 
 Which month, on average, has the lowest temperature? The highest? (10 points)
+On average, Month 3 has the lowet temperature and Month 8 has the highest.
+
 ![image](https://github.com/Kristen-Beer/data_collection_challenge/assets/136931429/fc451596-e46f-452b-89b9-b2bde77efaf7)
 
 ![image](https://github.com/Kristen-Beer/data_collection_challenge/assets/136931429/f60b2f40-535e-4f59-8259-c143838695b1)
 
 Which month, on average, has the lowest atmospheric pressure? The highest? (10 points)
+On average, Month 6 has the lowest atmospheric pressure and Month 9 has the highest. 
+
 ![image](https://github.com/Kristen-Beer/data_collection_challenge/assets/136931429/ca86ae4d-c3ce-4dc3-aadf-2c6998a83256)
 
 How many terrestrial days exist in a Martian year? A visual estimate within 25% was made. (10 points)
+There are approximately 675 terrestrial days in a Martian year.
+
 ![image](https://github.com/Kristen-Beer/data_collection_challenge/assets/136931429/3eb55c0d-7721-4c5d-9c95-6b03ff992e96)
 
 The DataFrame was exported into a CSV file. (5 points)
