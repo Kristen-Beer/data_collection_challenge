@@ -19,6 +19,8 @@ How many Martian days' worth of data are there? (5 points)
 The data was analyzed to answer the following questions, and a data visualization was created to support each answer: (30 points)
 
 Which month, on average, has the lowest temperature? The highest? (10 points)
+![image](https://github.com/Kristen-Beer/data_collection_challenge/assets/136931429/f60b2f40-535e-4f59-8259-c143838695b1)
+
 Which month, on average, has the lowest atmospheric pressure? The highest? (10 points)
 ![image](https://github.com/Kristen-Beer/data_collection_challenge/assets/136931429/ca86ae4d-c3ce-4dc3-aadf-2c6998a83256)
 
