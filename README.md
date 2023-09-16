@@ -6,6 +6,7 @@ Automated browsing (with Splinter) was used to visit the Mars news site, and the
 The titles and preview text of the news articles were scraped and extracted. (20 points)
 
 The scraped information was stored in the specified Python data structure—specifically, a list of dictionaries. (10 points)
+![image](https://github.com/Kristen-Beer/data_collection_challenge/assets/136931429/d6899c66-8a1e-40d8-9a74-363b117b4d78)
 
 
 Part 2: Scrape and Analyze Mars Weather Data (60 points)
