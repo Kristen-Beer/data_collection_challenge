@@ -20,6 +20,8 @@ The data was analyzed to answer the following questions, and a data visualizatio
 
 Which month, on average, has the lowest temperature? The highest? (10 points)
 Which month, on average, has the lowest atmospheric pressure? The highest? (10 points)
+![image](https://github.com/Kristen-Beer/data_collection_challenge/assets/136931429/ca86ae4d-c3ce-4dc3-aadf-2c6998a83256)
+
 How many terrestrial days exist in a Martian year? A visual estimate within 25% was made. (10 points)
 ![image](https://github.com/Kristen-Beer/data_collection_challenge/assets/136931429/3eb55c0d-7721-4c5d-9c95-6b03ff992e96)
 
